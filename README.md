@@ -158,8 +158,8 @@ erDiagram
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Muntasib-2006/02.-mobile-sales-project.git
-   cd "02.-mobile-sales-project"
+   git clone https://github.com/Muntasib-2006/02.-MOBILE-SALES-PROJECT.git
+   cd "02.-MOBILE-SALES-PROJECT"
    ```
 
 2. **Set up a virtual environment (recommended):**
