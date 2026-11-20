@@ -1,0 +1,14 @@
+﻿{
+    "Total_Transactions":  3835,
+    "Total_Units_Sold":  19150,
+    "Total_Revenue_INR":  769204987.97,
+    "Average_Order_Value":  200574.96,
+    "Average_Unit_Price":  40114.04,
+    "Average_Customer_Rating":  3.69,
+    "Unique_Customers":  3652,
+    "Unique_Brands":  5,
+    "Unique_Models":  15,
+    "Unique_Cities":  19,
+    "Date_Range_Start":  "2021-09-08",
+    "Date_Range_End":  "2024-12-31"
+}

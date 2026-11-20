@@ -1,0 +1,5 @@
+﻿"Payment_Key","Payment_Method","Payment_Type"
+"1","Cash","Cash"
+"2","Credit Card","Digital"
+"3","Debit Card","Digital"
+"4","UPI","Digital"
